@@ -3,6 +3,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 
+# Trying to determine why this program is now crashed.
+
 # 1. Page Configuration
 st.set_page_config(
     page_title="Stats Lab: Focus Fuel",
